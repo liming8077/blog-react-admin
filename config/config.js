@@ -6,7 +6,7 @@ import defaultSettings from '../src/defaultSettings';
 
 export default {
   // add for transfer to umi
-  publicPath:'https://f6-ming.oss-cn-beijing.aliyuncs.com/blog-react-admin/',
+  publicPath:'https://f6-ming.oss-cn-beijing.aliyuncs.com/blog-react-admin/dist',
   plugins: [
     [
       'umi-plugin-react',
