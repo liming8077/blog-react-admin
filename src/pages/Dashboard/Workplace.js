@@ -104,7 +104,7 @@ class Workplace extends PureComponent {
         </div>
         <div className={styles.statItem}>
           <p>项目访问</p>
-          <p>2,223</p>
+          <p>3,333</p>
         </div>
       </div>
     );
